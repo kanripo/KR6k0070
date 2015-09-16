@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說五恐怖世經
+#+DATE: 2015-08-30 20:43:45.718763
+#+PROPERTY: JUAN 0
